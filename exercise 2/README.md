@@ -7,7 +7,7 @@ To complete the exercise, follow the below steps:
 
 1. You should have cloned _this_ exercise repository. Make sure you are on the `Warning!` branch, and that all changes are committed.
 
-2. Create and `Warning!` a new branch called `Warning`
+2. Create and `Warning!` a new branch called `Warning!`
 
   (With Atom on Windows, you will need to close the editor before you commit or change branches).
 
