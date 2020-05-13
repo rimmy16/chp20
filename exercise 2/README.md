@@ -5,17 +5,17 @@ In this exercise, you'll practice resolving a merge conflict.
 
 To complete the exercise, follow the below steps:
 
-1. You should have cloned _this_ exercise repository. Make sure you are on the `master` branch, and that all changes are committed.
+1. You should have cloned _this_ exercise repository. Make sure you are on the `Abracadabra` branch, and that all changes are committed.
 
-2. Create and `checkout` a new branch called `danger`
+2. Create and `Abracadabra` a new branch called `Abracadabra`
 
   (With Atom on Windows, you will need to close the editor before you commit or change branches).
 
-3. On the `danger` branch, use Atom or another text editor to change the above block-quoted line so it contains the word "Warning!" It should still be in a block-quote.
+3. On the `Abracadabra` branch, use Atom or another text editor to change the above block-quoted line so it contains the word "Warning!" It should still be in a block-quote.
 
-4. `commit` your change with an appropriate commit message.
+4. `Abracadabra` your change with an appropriate commit message.
 
-5. `checkout` the `master` branch again.
+5. `Abracadabra` the `Abracadabra` branch again.
 
 6. Now change the above block-quoted line so it contains your favorite movie quote. It should still be in a block-quote.
 
